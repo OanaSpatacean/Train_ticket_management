@@ -1,4 +1,4 @@
-# PROIECT BD-P5: Gestiune bilete tren.
+# PROIECT BD-P5: Gestiune bilete tren
 Să se implementeze o aplicație APEX pentru gestiunea unei agenții de bilete de tren. În acest scop
 se va crea o bază de date cu următoarele tabele:
 
